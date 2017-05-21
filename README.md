@@ -13,7 +13,7 @@ in order to compare their accuracy with standard GRU and LSTM.
 
 # Acknowledgments
 
-- Code of Penn Tree Bank (PTB) language model is borrowed from Tensorflow models.
+- Codes of Penn Tree Bank (PTB) language model(`ptb_word_lm.py`, `reader.py`) are borrowed from Tensorflow models.
 [link](https://github.com/tensorflow/models/tree/master/tutorials/rnn/ptb)
 
 # References
